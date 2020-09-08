@@ -1,0 +1,2 @@
+# HR-Analytics
+Integrated a classification model and regression model with an web app. The two types of model mainly tries to reduce the work load of HR officials in different company. The classification model predicts employee turnover based on several factors. The regression model tries to predict the ideal salary the company should provide to a fresher. The models are trained on different data collected from the internet. 
